@@ -68,3 +68,15 @@
 
 **Dataset Link : https://www.kaggle.com/datasets/vetion/vege-quality**
 
+Requirements
+To run the notebook and utilize the model, the following dependencies are required:
+
+Tensorflow
+Matplotlib
+NumPy
+PIL
+random
+cv2
+shutil
+os
+
