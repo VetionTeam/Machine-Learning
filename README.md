@@ -1,5 +1,8 @@
 # Machine-Learning
-# Vetion Machine Learning
+<div align="center">
+  <h1>Vetion Machine Learning</h1>
+</div>
+
 <div align="center">
     <img src="https://github.com/Tooomat/img-vetion/blob/main/Group%204%20(1).png" alt="Logo GitHub" width="200" height="200"/>
 </div>
