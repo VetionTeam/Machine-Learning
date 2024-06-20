@@ -6,9 +6,6 @@
 
 <div align="center">
 
-## VETION : Vegetable Detection And Nutrition
-### test
-
   <table>
     <tr>
       <th>Name</th>
@@ -46,5 +43,5 @@
 </div>
 
 ## VETION : Vegetable Detection And Nutrition
-### test
+### Vetion is an application designed to help retailers and houseconsumers detect the quality of vegetables and provide accurate nutritional information. The app aims to enhance users' awareness and understanding of the quality and nutritional content of the vegetables they consume. With Vetion, users can easily select high-quality vegetables and ensure they receive the maximum nutritional benefits from their choices.
 
