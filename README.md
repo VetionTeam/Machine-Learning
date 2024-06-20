@@ -57,7 +57,6 @@
     <img src="https://github.com/Tooomat/img-vetion/blob/main/Model-Training-Validation.png" alt="Logo GitHub" width="500" height="500"/>
 </div>
 
-<div align="center">
   
 ### Confusion Matrix
 <div align="center">
@@ -68,6 +67,7 @@
 **Dataset Link : https://www.kaggle.com/datasets/vetion/vege-quality**
 
 **Requirements**
+
 To run the notebook and utilize the model, the following dependencies are required:
 
 - Tensorflow
