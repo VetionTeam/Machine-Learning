@@ -64,18 +64,17 @@
     <img src="https://github.com/Tooomat/img-vetion/blob/main/Confusion%20Matrix.png" alt="Logo GitHub" width="500" height="500"/>
 </div>
 
-<div align="center">
 
 **Dataset Link : https://www.kaggle.com/datasets/vetion/vege-quality**
 
-Requirements
+**Requirements**
 To run the notebook and utilize the model, the following dependencies are required:
 
-Tensorflow
-Matplotlib
-NumPy
-PIL
-random
+- Tensorflow
+- Matplotlib
+- NumPy
+- PIL
+- random
 cv2
 shutil
 os
