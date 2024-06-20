@@ -2,7 +2,7 @@
 # Vetion Machine Learning
 ![Logo GitHub](https://github.com/Tooomat/img-vetion/blob/main/Group%204%20(1).png)
 
-| Name  | Path |
+| Name  | Path | University |
 | ----- | --- |
 | Muhammad Zaidan Naufal Fikri   | Machine Learning  |
 | Hadi Dwi Ardiansyah | Machine Learning  |
