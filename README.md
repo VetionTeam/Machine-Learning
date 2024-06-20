@@ -52,6 +52,9 @@
 **Accuracy 99%, Validation Accuracy 92% and f1-score 92%**
 
 **For machine learning, we employ a classification method to assess vegetable quality. We utilize tools and libraries such as TensorFlow, Python, NumPy, and Seaborn to develop our models. We gathered 3195 images encompassing 20 vegetable classes along with their respective quality assessments.**
+
+** Dataset Link : https://www.kaggle.com/datasets/vetion/vege-quality**
+
 <div align="center">
     <img src="https://github.com/Tooomat/img-vetion/blob/main/Model-Training-Validation.png" alt="Logo GitHub" width="500" height="500"/>
 </div>
