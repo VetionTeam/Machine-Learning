@@ -1,6 +1,6 @@
 # Machine-Learning
 # Vetion Machine Learning
-![Logo GitHub](https://github.com/Tooomat/img-vetion.git)
+![Logo GitHub](https://github.com/Tooomat/img-vetion/blob/main/Group%204%20(1).png)
 
 | Name  | Path |
 | ----- | --- |
