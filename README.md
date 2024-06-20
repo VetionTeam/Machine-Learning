@@ -49,6 +49,7 @@
 ### Vetion is an application designed to help retailers and houseconsumers detect the quality of vegetables and provide accurate nutritional information. The app aims to enhance users' awareness and understanding of the quality and nutritional content of the vegetables they consume. With Vetion, users can easily select high-quality vegetables and ensure they receive the maximum nutritional benefits from their choices.
 
 ### Accuracy
+**Accuracy 99% and Validation Accuracy 92%**
 **For machine learning, we employ a classification method to assess vegetable quality. We utilize tools and libraries such as TensorFlow, Python, NumPy, and Seaborn to develop our models. We gathered 3195 images encompassing 20 vegetable classes along with their respective quality assessments.**
 <div align="center">
     <img src="https://github.com/Tooomat/img-vetion/blob/main/Model-Training-Validation.png" alt="Logo GitHub" width="500" height="500"/>
