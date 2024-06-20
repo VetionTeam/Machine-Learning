@@ -46,7 +46,13 @@
 ### Vetion is an application designed to help retailers and houseconsumers detect the quality of vegetables and provide accurate nutritional information. The app aims to enhance users' awareness and understanding of the quality and nutritional content of the vegetables they consume. With Vetion, users can easily select high-quality vegetables and ensure they receive the maximum nutritional benefits from their choices.
 
 <div align="center">
-    <img src="https://github.com/Tooomat/img-vetion/blob/main/Confusion%20Matrix.png" alt="Logo GitHub" width="200" height="200"/>
+    <img src="https://github.com/Tooomat/img-vetion/blob/main/Model-Training-Validation.png" alt="Logo GitHub" width="500" height="500"/>
+</div>
+
+<div align="center">
+
+<div align="center">
+    <img src="https://github.com/Tooomat/img-vetion/blob/main/Confusion%20Matrix.png" alt="Logo GitHub" width="500" height="500"/>
 </div>
 
 <div align="center">
